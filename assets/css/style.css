@@ -1,3 +1,9 @@
+body {
+	background-image: url("../images/map.jpg");
+	background-position: auto;
+
+}
+
 #app {
 	width: 600px;
 	height: 300px;

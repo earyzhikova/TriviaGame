@@ -20,32 +20,32 @@ var newQuestion = {
 	questions: 	[
     {
 		quesion: "What state's motto is 'North to Future'?",
-		answers: ["North Dakota", "Alaska", "Montana"],
+		answers: ["North Dakota", "Alaska", "Montana", "Maine"],
 		answerIndex: [1]
     },
 
     {
 		quesion: "What southeastern state boasts the cities of Frog Jump, Only, and Sweet Lips?",
-		answers: ["Georgia", "South Carolina", "Tennessee"],
+		answers: ["Georgia", "South Carolina", "Tennessee", "Florida"],
 		answerIndex: [2]
     },
 
     {
 		quesion: 'What southern U.S. city is sometimes nicknamed "Little Cuba"?',
-		answers: ["Key West", "Miami", "Cuba City"],
+		answers: ["Key West", "Miami", "Cuba City", "Jacksonville"],
 		answerIndex: [1]
     },
 
     {
 		quesion: "What state leads the nation in copper production?",
-		answers: ["North Dakota", "South Dakota", "Arizona"],
-		answerIndex: [2]
+		answers: ["North Dakota", "South Dakota", "Montana", "Arizona"],
+		answerIndex: [3]
     },
 
 
     {
 		quesion: "What state's name means tribal town in the Creek Ingian language?",
-		answers: ["Alabama", "Alaska", "Arkansas"],
+		answers: ["Alabama", "Alaska", "Arkansas", "Georgia"],
 		answerIndex: [0]
     },
 
@@ -57,19 +57,19 @@ var newQuestion = {
 
     {
 		quesion: "What state shares its border with only one other state?",
-		answers: ["Maine", "Michigan","Delaware"],
+		answers: ["Maine", "Michigan","Delaware", "Florida"],
 		answerIndex: [0]
     },
 
     {
 		quesion: "What state ranks first in state boat registrations?",
-		answers: ["Florida", "North Carolina", "Michigan"],
+		answers: ["Florida", "North Carolina", "Michigan", "Maryland"],
 		answerIndex: [2]
     },
 
     {
 		quesion: "What state has more ghost towns than any other state?",
-		answers: ["Oregon", "Alaska", "Wyoming"],
+		answers: ["Oregon", "Alaska", "Wyoming", "North Dakota"],
 		answerIndex: [0]
     },
 
@@ -89,6 +89,8 @@ function isAnwerCorrect() {
   if (yes) {}
 }// create: start button
 //  a countdown timer (show Remaining Time)
+
+
 // four answer buttons
 //start over button
 
